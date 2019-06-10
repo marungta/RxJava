@@ -1,0 +1,2 @@
+If an Observable is emitting data and there are observers listening to that data. If a new Observer comes, it would only recieve the 
+new emissions. Not the old one.
